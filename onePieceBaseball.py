@@ -1,13 +1,11 @@
 '''
-Before pasting this project into the option 2 location, I worked on it in my
-sandbox for atleast 12 hours. One Piece baseball special features are
-customizable team name and color, a strike/ball zone, tracking algorithm for
-fielder to catch ball, many sprites, keeping track of the players on base
-to increase score if one reaches home. There is a controls tab to learn
-how to play. There are grading keys that can be used to speed up gameplay and
-are shown in the key press functions of each section, like o for 3 outs
-(gameiover), s for 3 strikes (strikeout), b for 4 balls (walk), and then some
-for changing between screens. I loved making this and I hope you enjoy!
+One Piece baseball special features are customizable team name and color,
+a strike/ball zone, tracking algorithm for fielder to catch ball, many sprites,
+keeping track of the players on base to increase score if one reaches home.
+There is a controls tab to learn how to play. There are shortcut keys that can
+be used to speed up gameplay and are shown in the key press functions of each
+section, like o for 3 outs (gameiover), s for 3 strikes (strikeout), b for 4 balls (walk),
+and then some for changing between screens. I loved making this and I hope you enjoy!
 '''
 
 from cmu_graphics import *
