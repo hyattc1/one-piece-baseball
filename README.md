@@ -22,4 +22,4 @@ Players experience an anime-inspired interface while competing through multiple 
 ### Run the Game
 Clone the repository and run:
 ```bash
-python one_piece_baseball.py
+python onePieceBaseball.py
